@@ -1,0 +1,52 @@
+/* Juan Manuel Rincón Navarro */
+/* Version 2 */
+body{
+	width:1260px;
+	margin-top:45px;
+}
+
+div{
+	margin-right:20px;
+	height:400px;
+	float:left;
+}
+
+div#div1{
+	width:800px;
+	margin-left:20px;
+}
+
+div#div2{
+	width:400px;
+}
+
+p{
+	margin-top:30px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+img{
+	width:150px;
+	margin-left:30px;
+	margin-top:50px;
+}
+
+form{		/*diseño del formulario de registro*/
+	font-weight:bold;
+	margin-top:30px;
+	padding-left:70px;
+	margin-right:10px;
+	font-size:8px;
+}
+
+footer{
+	height:100px;
+	/*clear:left; con esto hariamos que se colocara debajo de los div al romper el flotamiento*/
+}
+
+main{
+	background-color:red;
+	overflow:hidden;
+	/*display:flow-root;*/
+}

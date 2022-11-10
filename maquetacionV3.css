@@ -1,0 +1,71 @@
+/* Juan Manuel Rincón Navarro */
+/* Version 3 con % */
+
+html{
+	width:1260px;
+	height:100vh;
+}
+
+body{
+	width:100%;
+	height:91.74vh;
+	margin-top:8.26vh;
+}
+
+div{
+	margin-right:1.5879%;
+	height:400px;
+	float:left;
+}
+
+div#div1{
+	width:63.493%;
+	margin-left:1.5879%;
+	background-color:green;
+}
+
+div#div2{
+	width:31.7463%;
+	background-color:yellow;
+}
+
+p{
+	margin-top:3.75%;
+	margin-left:1.25%;
+	margin-right:1.25%;
+}
+
+img{
+	width:37.5%;
+	margin-left:7.5%;
+	margin-top:12.5%;
+}
+
+form{
+	font-weight:bold;
+	margin-top:2%;
+	margin-bottom:2%;
+	padding-left:8.75%;
+	margin-right:1.25%;
+	font-size:8px;
+}
+
+footer{
+	height:100px;
+	background-color:navy;
+}
+
+input[type="text"]{
+	width:69.446%;
+	padding-left:1.39%;
+}
+
+input[type="submit"]{
+	width:17.362%;
+	background-color:#D8D8D8;
+}
+
+main{
+	background-color:red;
+	overflow:hidden;
+}
